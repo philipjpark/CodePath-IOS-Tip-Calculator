@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-work - Tip Calculator App
 
 Tip Calculator App is a tip calculator application for iOS.
@@ -51,3 +52,6 @@ The challenge that I faced was getting accustomed to the layout of Xcode.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# CodePath-IOS-Tip-Calculator
+>>>>>>> 5e223252b4a8b349b71c82591303341ec8fdb41c
