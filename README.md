@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/philipjpark/CodePath-IOS-Tip-Calculator/blob/main/Tip_Calculator_App.gif' title='Tip Calculator App' width='' alt='Tip Calculator App' />
 
 GIF created with [Kap](https://getkap.co/).
 
